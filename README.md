@@ -23,5 +23,8 @@ Teste, teste, teste
 ### Funcionalidades a desenvolver:
 
 1. Area de membros
+    1. Login diferente
+    2. Desconto especial
+    3. CSS diferente
 2. Integração
 3. Sistema de bônus
