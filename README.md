@@ -11,3 +11,11 @@ Checkout, Tela de produto, Catalogo, Home com baner
 Teste, teste, teste
 
 **testando negrito** _testando_ *testando italico* __testando__
+
+### Linguagens do projeto:
+
+* HTML
+* CSS
+* JavaScript
+* PHP
+* MySQL
