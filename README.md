@@ -28,3 +28,7 @@ Teste, teste, teste
     3. CSS diferente
 2. Integração
 3. Sistema de bônus
+
+#### Imagem local
+
+![Foquinha](img/foca.jpg)
