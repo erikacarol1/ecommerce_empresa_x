@@ -19,3 +19,9 @@ Teste, teste, teste
 * JavaScript
 * PHP
 * MySQL
+
+### Funcionalidades a desenvolver:
+
+1. Area de membros
+2. Integração
+3. Sistema de bônus
