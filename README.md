@@ -31,6 +31,4 @@ Teste, teste, teste
 
 #### Imagem local
 
-![Foquinha][def]
-
-[def]: img/foca.jpg
+![Foquinha](img/foca.jpg)
