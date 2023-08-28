@@ -9,3 +9,5 @@ Checkout, Tela de produto, Catalogo, Home com baner
 ###### Testando README.md
 
 Teste, teste, teste
+
+**testando negrito** _testando_ *testando italico* __testando__
